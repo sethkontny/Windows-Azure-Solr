@@ -1,4 +1,1 @@
-Windows-Azure-Solr
-==================
-
-Solr/Lucene on Azure
+Windows-Azure-Solr repo was moved to a new location: https://github.com/MSOpenTech/Windows-Azure-Solr
